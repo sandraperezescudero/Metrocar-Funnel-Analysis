@@ -1,6 +1,3 @@
-# metrocar-funnel-analysis
-This project aims to analyse the customer funnel of Metrocar, a fictional ride-sharing app (similar to Uber), to identify areas for improvement and optimisation. I used SQL to query the data and Tableau for data visualisation.
-
 Metrocar's business model is based on a platform that connects riders with drivers through a mobile application. Metrocar acts as an intermediary between riders and drivers, providing a user-friendly platform to connect them and facilitate the ride-hailing process.
 
 I aimed to analyse the data and make recommendations based on the following business questions to uncover valuable insights for improving specific areas of the customer funnel:
